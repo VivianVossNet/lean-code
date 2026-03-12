@@ -29,6 +29,8 @@ Lean Code is not the opposite of Clean Code. It is what Clean Code should have b
 
 Read the full manifesto: [manifesto.md](manifesto.md)
 
+Translations: [Deutsch](i18n/de/manifesto.md) · [Español](i18n/es/manifesto.md) · [Français](i18n/fr/manifesto.md) · [Italiano](i18n/it/manifesto.md) · [Português](i18n/pt/manifesto.md) · [中文](i18n/zh/manifesto.md) · [日本語](i18n/ja/manifesto.md) · [Русский](i18n/ru/manifesto.md) · [العربية](i18n/ar/manifesto.md)
+
 ## Examples
 
 The `examples/` directory demonstrates Lean Code at four fractal levels:
