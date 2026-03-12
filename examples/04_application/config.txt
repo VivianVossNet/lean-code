@@ -1,0 +1,3 @@
+price_per_unit = 29.99
+stock_file = stock.txt
+order_directory = orders
