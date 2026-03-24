@@ -8,6 +8,8 @@ Lean Code is not the opposite of Clean Code. It is what Clean Code should have b
 
 **Preserve the developer's cognitive capacity for logic.**
 
+By [Vivian Voss](https://vivianvoss.net) — System Architect and Software Developer. More writing on software architecture at [vivianvoss.net/blog](https://vivianvoss.net/blog).
+
 ## The Principles
 
 **I. Structure** — How code is cut.
